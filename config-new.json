@@ -1,0 +1,10 @@
+{
+  "binance_api_key": "binance api key",
+  "binance_api_secret": "binance api secret",
+  "currency": "USD_TRY",
+  "stable": "USDC",
+  "follow": [
+    "TRX/BTC",
+    "VET/BTC"
+  ]
+}
