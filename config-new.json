@@ -6,5 +6,6 @@
   "follow": [
     "TRX/BTC",
     "VET/BTC"
-  ]
+  ],
+  "interval": 3
 }
